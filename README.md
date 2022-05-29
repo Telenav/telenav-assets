@@ -2,6 +2,7 @@
 # telenav-assets
 
 Repository of images, diagrams, logos, icons, backgrounds and other assets used on Telenav OSS web sites.
+Graphic images in this repository are licensed under [Apache 2.0 License](graphics/LICENSE).
 
     telenav-assets
     └── docs
