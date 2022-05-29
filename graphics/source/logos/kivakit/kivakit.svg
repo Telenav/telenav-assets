@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="249.665" y1="2.818" x2="249.665" y2="469.844" id="gradient-0" gradientTransform="matrix(-0.891689, -0.452651, 0.440278, -0.867318, 369.391244, 554.884669)">
+      <stop offset="0" style="stop-color: rgb(255, 151, 32);"/>
+      <stop offset="1" style="stop-color: rgb(255, 226, 4);"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="249.665" y1="2.818" x2="249.665" y2="469.844" id="gradient-1">
+      <stop offset="0" style="stop-color: rgb(218, 218, 85);"/>
+      <stop offset="1" style="stop-color: rgba(135, 165, 36, 1)"/>
+    </linearGradient>
+  </defs>
+  <circle style="stroke-width: 0px; fill: url(#gradient-0); stroke: url(#gradient-1);" cx="249.665" cy="236.331" r="233.513"/>
+  <g style="" transform="matrix(1, 0, 0, 0.937326, 0, 32.292446)">
+    <g>
+      <line style="stroke-linecap: round; stroke: rgb(69, 137, 220); stroke-width: 34.0676px;" x1="173.667" y1="475.871" x2="212.936" y2="16.153"/>
+      <line style="stroke-linecap: round; stroke: rgb(69, 137, 220); stroke-width: 34.0676px;" x1="291.175" y1="16.203" x2="323.341" y2="480.394"/>
+      <line style="stroke-linecap: round; stroke: rgb(69, 137, 220); stroke-width: 34.0676px;" x1="180.042" y1="76.055" x2="320.506" y2="73.761"/>
+      <line style="stroke-linecap: round; stroke: rgb(69, 137, 220); stroke-width: 34.0676px;" x1="164.257" y1="164.449" x2="336.537" y2="162.579"/>
+      <line style="stroke-linecap: round; stroke: rgb(69, 137, 220); stroke-width: 34.0676px;" x1="161.942" y1="253.737" x2="346.695" y2="256.663"/>
+      <line style="stroke-linecap: round; stroke: rgb(69, 137, 220); stroke-width: 34.0676px;" x1="150.785" y1="357.747" x2="354.517" y2="358.98"/>
+    </g>
+    <g transform="matrix(0.952238, 0, 0, 0.952238, 51.317528, 12.998141)">
+      <g transform="matrix(1, 0, 0, 1, -1.050158, 0)">
+        <g>
+          <line style="stroke-width: 18.4302px; stroke-linecap: round; stroke: rgb(233, 202, 1);" x1="134.057" y1="65.03" x2="286.671" y2="62.847"/>
+          <line style="stroke-width: 16.262px; stroke-linecap: round; stroke: rgb(233, 202, 1);" x1="116.519" y1="158.28" x2="303.789" y2="156.12"/>
+          <line style="stroke-width: 16.262px; stroke-linecap: round; stroke: rgb(233, 202, 1);" x1="116.613" y1="253.068" x2="311.777" y2="254.923"/>
+          <line style="stroke-width: 16.262px; stroke-linecap: round; stroke: rgb(233, 202, 1);" x1="105.139" y1="361.077" x2="321.284" y2="362.253"/>
+          <line style="stroke-width: 16.262px; stroke-linecap: round; stroke: rgb(233, 202, 1);" x1="253.292" y1="1.317" x2="286.843" y2="490.731"/>
+          <line style="stroke-width: 16.262px; stroke-linecap: round; stroke: rgb(233, 202, 1);" x1="129.021" y1="486.622" x2="170.718" y2="2.489"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

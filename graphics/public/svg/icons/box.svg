@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="svg2" viewBox="0 0 128 128" version="1.0" xmlns="http://www.w3.org/2000/svg">
+  <defs id="defs4">
+    <filter id="filter3842" height="1.329" width="1.2115" y="-.16452" x="-.10576">
+      <feGaussianBlur id="feGaussianBlur3844" stdDeviation="2.5548707"/>
+    </filter>
+    <filter id="filter3920" height="1.3669" width="1.1749" y="-.18346" x="-.087464">
+      <feGaussianBlur id="feGaussianBlur3922" stdDeviation="2.1631241"/>
+    </filter>
+    <filter id="filter3968">
+      <feGaussianBlur id="feGaussianBlur3970" stdDeviation="1.1167048"/>
+    </filter>
+    <filter id="filter4036" height="6.9919" width="2.4818" y="-2.996" x="-.74089">
+      <feGaussianBlur id="feGaussianBlur4038" stdDeviation="51.518058"/>
+    </filter>
+    <filter id="filter3345" height="1.7751" width="1.1326" y="-.38756" x="-.066316">
+      <feGaussianBlur id="feGaussianBlur3347" stdDeviation="2.3089849"/>
+    </filter>
+  </defs>
+  <path id="path3378" style="filter: url(#filter3968); fill: rgb(66, 148, 247); stroke-width: 5.28709px; stroke: rgb(216, 188, 0);" d="M 107.409 104.086 L 74.901 125.233 L 14.988 108.784"/>
+  <path id="path3276" style="fill-rule: evenodd; fill: rgb(66, 148, 247); stroke-width: 3px; stroke: rgb(216, 188, 0);" d="M 62.55 36.81 L 107.53 44.16 L 107.53 87.67 L 62.41 88.21 L 62.55 36.81 Z"/>
+  <path id="path3274" style="fill-rule: evenodd; fill: rgb(66, 148, 247); stroke-width: 3px; stroke: rgb(216, 188, 0);" d="M 14.76 49.16 L 62.69 36.81 L 62.55 91.41 L 15.02 93.81 L 14.76 49.16 Z"/>
+  <path id="path3264" style="fill-rule: evenodd; fill: rgb(66, 148, 247); stroke-width: 3px; stroke: rgb(216, 188, 0);" d="M 14.8 49.25 L 74.66 59.8 L 74.66 125.49 L 14.8 109.43 L 14.8 49.25 Z"/>
+  <path id="path3266" style="fill-rule: evenodd; fill: rgb(66, 148, 247); stroke-width: 3px; stroke: rgb(216, 188, 0);" d="M 74.66 125.57 L 74.66 59.78 L 107.88 44.71 L 107.88 104.45 L 74.66 125.57 Z"/>
+  <path id="path3640" style="filter: url(#filter3842); fill-rule: evenodd; fill-opacity: 0.75648; fill: rgb(66, 148, 247); stroke-width: 5.28709px; stroke: rgb(216, 188, 0);" d="M 74.118 60.224 C 69.029 80.98 39.788 54.548 39.788 54.548 L 41.225 75.499 L 74.118 60.224 Z"/>
+  <path id="path2501" style="filter: url(#filter3345); fill: rgb(66, 148, 247); stroke-width: 3px; stroke: rgb(216, 188, 0);" d="M 102.79 47.16 L 74.53 60.46 L 20.22 50.49"/>
+  <path id="path3268" style="fill-rule: evenodd; fill: rgb(66, 148, 247); stroke-width: 3px; stroke: rgb(216, 188, 0);" d="M 14.76 49.16 L 74.67 59.78 L 59.95 83.57 L 1.75 71.07 L 14.76 49.16 Z"/>
+  <path id="path3846" style="filter: url(#filter3920); fill-rule: evenodd; fill-opacity: 0.75648; fill: rgb(66, 148, 247); stroke-width: 5.28709px; stroke: rgb(216, 188, 0);" d="M 74.901 59.833 L 92.598 59.784 L 108.584 65.705 L 74.901 59.833 Z"/>
+  <path id="path3270" style="fill-rule: evenodd; fill: rgb(66, 148, 247); stroke-width: 3px; stroke: rgb(216, 188, 0);" d="M 74.66 59.78 L 94.52 73.81 L 126.88 58.75 L 107.7 44.2 L 74.66 59.78 Z"/>
+  <path id="use3972" style="filter: url(#filter4036); fill: rgb(66, 148, 247); stroke-width: 5.28709px; stroke: rgb(216, 188, 0);" d="M 107.409 104.086 L 14.988 108.784"/>
+</svg>

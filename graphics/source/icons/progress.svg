@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="512px" height="512px" id="svg2" version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.11812, 0, 0, 1.25187, 100.410416, 249.337051)" style="">
+    <rect rx="18.77" ry="18.77" y="99.521" x="-82.117" height="104.286" width="443.571" id="rect3773" style="fill-opacity: 1; fill-rule: nonzero; fill: rgb(66, 148, 247); stroke: rgb(30, 66, 111); stroke-width: 13px;"/>
+    <path id="rect3791" d="M 133.749 109.516 L 133.749 193.798 L 331.468 193.798 C 342.548 193.798 351.468 184.878 351.468 173.798 L 351.468 129.516 C 351.468 118.436 342.548 109.516 331.468 109.516 L 133.749 109.516 Z" style="fill-opacity: 1; fill-rule: nonzero; stroke: none; fill: rgb(66, 148, 247);"/>
+    <path id="path3797" d="M -50.538 110.089 L -70.948 134.621 L -70.981 170.248 L -70.919 189.083 L 3.836 110.089 L -50.538 110.089 Z M 70.018 110.089 L -0.119 194.371 L 54.257 194.371 L 124.394 110.089 L 70.018 110.089 Z M 190.575 110.089 L 120.437 194.371 L 174.815 194.371 L 244.95 110.089 L 190.575 110.089 Z M 311.133 110.089 L 240.994 194.371 L 295.371 194.371 L 351.329 126.044 C 351.002 119.936 351.721 110.351 349.462 110.265 C 341.914 109.978 336.592 110.089 326.327 110.089 L 311.133 110.089 Z" style="fill-opacity: 1; fill-rule: nonzero; fill: rgb(216, 188, 0); stroke: rgb(216, 188, 0); stroke-width: 8px; stroke-linecap: round; stroke-linejoin: round;"/>
+  </g>
+</svg>

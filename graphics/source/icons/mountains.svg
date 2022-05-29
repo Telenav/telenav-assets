@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <circle style="fill: rgb(66, 148, 247); stroke: rgb(216, 188, 0); stroke-width: 16px;" cx="247.366" cy="239.438" r="190.331"/>
+  <path d="M 306.523 182.586 L 480.952 418.531 L 132.094 418.531 L 306.523 182.586 Z" style="fill: rgb(66, 148, 247); stroke: rgb(216, 188, 0); stroke-width: 16px;" bx:shape="triangle 132.094 182.586 348.858 235.945 0.5 0 1@bacea5af"/>
+  <path d="M 193.906 212.68 L 367.294 448.625 L 20.518 448.625 L 193.906 212.68 Z" style="fill: rgb(66, 148, 247); stroke: rgb(216, 188, 0); stroke-width: 16px;" bx:shape="triangle 20.518 212.68 346.776 235.945 0.5 0 1@ff51eafe"/>
+  <polygon style="stroke: rgb(0, 0, 0); fill: rgb(216, 188, 0); stroke-width: 0px;" points="124.97 301.312 183.638 281.847 195.214 297.801 208.913 280.952 237.868 283.905 189.555 214.858 127.299 298.619 126.47 299.878"/>
+  <polygon style="stroke: rgb(0, 0, 0); fill: rgb(216, 188, 0); stroke-width: 0px;" points="267.527 243.703 296.58 237.17 342.377 274.059 356.307 246.262 311.962 182.177 269.852 242.746"/>
+</svg>

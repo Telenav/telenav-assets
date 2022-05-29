@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <g style="" transform="matrix(1.261103, 0, 0, 1.261103, -67.513748, 103.035934)">
+    <rect x="62.288" y="162.753" width="375.425" height="144.474" style="fill: rgb(66, 148, 247); stroke: rgb(216, 188, 0); stroke-width: 14px;" rx="19.964" ry="19.964"/>
+    <path style="fill: rgba(216, 216, 216, 0); stroke: rgb(216, 188, 0); stroke-width: 14px;" d="M 163.017 164.602 C 163.017 164.602 178.016 126.922 201.143 125.85 C 228.233 124.595 265.087 124.946 292.523 124.946 C 321.081 124.946 333.229 163.86 333.229 164.59"/>
+    <line style="stroke: rgb(216, 188, 0); stroke-width: 8px;" x1="65.969" y1="215.902" x2="437.652" y2="215.902"/>
+    <rect x="210.121" y="207.707" width="79.757" height="18.944" style="fill: rgb(216, 188, 0);"/>
+  </g>
+</svg>

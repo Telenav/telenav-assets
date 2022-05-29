@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <g transform="matrix(1.43665, 0, 0, 1.43665, -1.336034, -54.243481)" style="">
+    <circle style="fill: rgb(66, 148, 247); stroke: rgb(216, 188, 0); stroke-width: 6px;" cx="141.711" cy="215.179" r="37.809"/>
+    <path style="fill: rgb(66, 148, 247); stroke: rgb(216, 188, 0); stroke-width: 6px;" d="M 141.108 243.253 H 141.108 A 48.281 48.84 0 0 1 189.388 292.093 V 340.932 H 92.827 V 292.093 A 48.281 48.84 0 0 1 141.108 243.253 Z" bx:shape="rect 92.827 243.253 96.561 97.679 50 50 0 0 1@7ac17cc9"/>
+    <rect x="122.502" y="228.852" width="38.976" height="37.148" style="fill: rgb(66, 148, 247);"/>
+  </g>
+  <g transform="matrix(1.43665, 0, 0, 1.43665, -109.802895, -39.119488)" style="">
+    <circle style="fill: rgb(66, 148, 247); stroke: rgb(216, 188, 0); stroke-width: 6px;" cx="141.711" cy="215.179" r="37.809"/>
+    <path style="fill: rgb(66, 148, 247); stroke: rgb(216, 188, 0); stroke-width: 6px;" d="M 141.108 243.253 H 141.108 A 48.281 48.84 0 0 1 189.388 292.093 V 340.932 H 92.827 V 292.093 A 48.281 48.84 0 0 1 141.108 243.253 Z" bx:shape="rect 92.827 243.253 96.561 97.679 50 50 0 0 1@7ac17cc9"/>
+    <rect x="122.502" y="228.852" width="38.976" height="37.148" style="fill: rgb(66, 148, 247);"/>
+  </g>
+  <g transform="matrix(1.43665, 0, 0, 1.43665, 76.825356, -22.814959)" style="">
+    <circle style="fill: rgb(66, 148, 247); stroke: rgb(216, 188, 0); stroke-width: 6px;" cx="141.711" cy="215.179" r="37.809"/>
+    <path style="fill: rgb(66, 148, 247); stroke: rgb(216, 188, 0); stroke-width: 6px;" d="M 141.108 243.253 H 141.108 A 48.281 48.84 0 0 1 189.388 292.093 V 340.932 H 92.827 V 292.093 A 48.281 48.84 0 0 1 141.108 243.253 Z" bx:shape="rect 92.827 243.253 96.561 97.679 50 50 0 0 1@7ac17cc9"/>
+    <rect x="122.502" y="228.852" width="38.976" height="37.148" style="fill: rgb(66, 148, 247);"/>
+  </g>
+  <g transform="matrix(1.43665, 0, 0, 1.43665, 200.359695, -57.198315)" style="">
+    <circle style="fill: rgb(66, 148, 247); stroke: rgb(216, 188, 0); stroke-width: 6px;" cx="141.711" cy="215.179" r="37.809"/>
+    <path style="fill: rgb(66, 148, 247); stroke: rgb(216, 188, 0); stroke-width: 6px;" d="M 141.108 243.253 H 141.108 A 48.281 48.84 0 0 1 189.388 292.093 V 340.932 H 92.827 V 292.093 A 48.281 48.84 0 0 1 141.108 243.253 Z" bx:shape="rect 92.827 243.253 96.561 97.679 50 50 0 0 1@7ac17cc9"/>
+    <rect x="122.502" y="228.852" width="38.976" height="37.148" style="fill: rgb(66, 148, 247);"/>
+  </g>
+</svg>

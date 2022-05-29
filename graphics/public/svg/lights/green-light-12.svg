@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1, 0, 0, 1, -10, 6)">
+    <circle style="stroke-width: 50px; fill: rgb(119, 211, 0); stroke: rgb(82, 145, 0);" cx="249.688" cy="244.996" r="197.244"/>
+    <circle style="stroke-width: 50px; fill: rgb(119, 211, 0); stroke: rgb(82, 145, 0);" cx="257.725" cy="246.239" r="197.244"/>
+  </g>
+</svg>

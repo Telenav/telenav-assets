@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1, 0, 0, 1, 5.814654, 34.720531)">
+    <g transform="matrix(1, 0, 0, 1, -18.929405, 123.524071)">
+      <g>
+        <polyline style="fill: rgba(216, 216, 216, 0); stroke: rgb(66, 148, 247); stroke-width: 26px; stroke-linecap: round;" points="26.692 54.149 213.613 316.188 403.766 125.406"/>
+      </g>
+      <polyline style="fill: rgba(216, 216, 216, 0); stroke: rgb(66, 148, 247); stroke-width: 26px; stroke-linecap: round;" points="353.148 128.108 404.279 124.758 405.926 170.785"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -19.085749, 123.343445)">
+      <g>
+        <polyline style="fill: rgba(216, 216, 216, 0); stroke: rgb(216, 188, 0); stroke-width: 13px; stroke-linecap: round;" points="26.692 54.149 213.613 316.188 403.766 125.406"/>
+      </g>
+      <polyline style="fill: rgba(216, 216, 216, 0); stroke: rgb(216, 188, 0); stroke-width: 13px; stroke-linecap: round;" points="353.148 128.108 404.279 124.758 405.926 170.785"/>
+    </g>
+    <polyline style="fill: rgb(216, 216, 216); stroke: rgb(216, 188, 0); stroke-width: 13px;" points="346.618 203.299"/>
+  </g>
+  <line style="stroke: rgb(66, 148, 247); stroke-width: 16px;" x1="3.34" y1="489.536" x2="486.028" y2="489.536"/>
+  <g transform="matrix(1, 0, 0, 1, 96.867416, 37.64904)">
+    <g transform="matrix(1, 0, 0, 1, -18.929405, 123.524071)">
+      <g>
+        <polyline style="fill: rgba(216, 216, 216, 0); stroke: rgb(66, 148, 247); stroke-width: 26px; stroke-linecap: round;" points="26.692 54.149 213.613 316.188 403.766 125.406"/>
+      </g>
+      <polyline style="fill: rgba(216, 216, 216, 0); stroke: rgb(66, 148, 247); stroke-width: 26px; stroke-linecap: round;" points="353.148 128.108 404.279 124.758 405.926 170.785"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -19.085749, 123.343445)">
+      <g>
+        <polyline style="fill: rgba(216, 216, 216, 0); stroke: rgb(216, 188, 0); stroke-width: 13px; stroke-linecap: round;" points="26.692 54.149 213.613 316.188 403.766 125.406"/>
+      </g>
+      <polyline style="fill: rgba(216, 216, 216, 0); stroke: rgb(216, 188, 0); stroke-width: 13px; stroke-linecap: round;" points="353.148 128.108 404.279 124.758 405.926 170.785"/>
+    </g>
+    <polyline style="fill: rgb(216, 216, 216); stroke: rgb(216, 188, 0); stroke-width: 13px;" points="346.618 203.299"/>
+  </g>
+</svg>

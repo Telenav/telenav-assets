@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="100%" height="100%" viewBox="0 0 900 900" xmlns="http://www.w3.org/2000/svg">
+  <desc>
+    Reworked Coffee Cup Animation by yamachem http://openclipart.org/detail/224843/morphingcoffeesmilanimation
+    Used script to modify Bezier curves instead of using SMIL animation
+    
+    by Jay Nick
+    steamcoded.org
+  </desc>
+  <script type="application/x-javascript">
+    StringArt = new function()
+    {
+      var x = 60;
+      var xinc = -10;
+
+      window.addEventListener("load", function(e) {animate(); }, false);
+      
+      function animate()
+      {
+        if(x &gt;= 60)  xinc = -10;
+        if(x &lt;= -60) xinc = 10;
+
+        x += xinc;
+
+        var path = "M0,"+Number(40-x/2)+"q"+x+",50,0,"+Number(100+x/4)+"t0,"+Number(110-x/2);
+
+        document.getElementById("s1").setAttribute("d",path);
+        document.getElementById("s2").setAttribute("d",path);
+        document.getElementById("s3").setAttribute("d",path);
+
+        window.setTimeout(animate,150);
+      }
+    }();
+  
+</script>
+  <path id="s1" d="M 250 20 C 290 53.333 290 95 250 145 C 210 195 210 236.667 250 270" style="stroke-width: 30px; stroke-linecap: round; fill: rgba(66, 148, 247, 0); stroke: rgb(216, 188, 0);"/>
+  <path id="s2" d="M 430 20 C 470 53.333 470 95 430 145 C 390 195 390 236.667 430 270" style="stroke-width: 30px; stroke-linecap: round; fill: rgba(66, 148, 247, 0); stroke: rgb(216, 188, 0);"/>
+  <path id="s3" d="M 610 20 C 650 53.333 650 95 610 145 C 570 195 570 236.667 610 270" style="stroke-width: 30px; stroke-linecap: round; fill: rgba(66, 148, 247, 0); stroke: rgb(216, 188, 0);"/>
+  <path d="M 118.7 333.2 C 123.5 442.8 185.61 721.8 256.99 791.5 L 439.39 791.5 L 621.89 791.5 C 651.09 762.4 663.39 674.9 693.39 599.5 C 705.59 569 741.49 431.9 747.99 434.2 C 894.49 406 842.39 636.1 684.19 624.6 C 664.69 662.5 639.762 772.359 663.051 700.817 C 953.351 620.617 931.49 413 764.96 387.3 C 756.16 373.82 773.06 345.7 768.46 331.4 L 439.36 330.5 L 118.7 333.2 Z M 10.01 797.9 C 32.18 849.07 112.21 878.5 156.51 887.7 L 450.61 887.7 L 744.64 887.7 C 788.94 878.51 866.74 851.5 888.93 800.3 L 476.83 805 L 10.01 797.9 Z" style="fill: rgb(66, 148, 247); stroke: rgb(216, 188, 0); stroke-width: 24px;"/>
+</svg>

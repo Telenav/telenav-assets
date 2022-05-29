@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <path style="fill: rgba(216, 216, 216, 0); stroke-linecap: round; stroke-width: 64px; stroke: rgb(216, 188, 0);" d="M 33.635 301.798 C 72.097 304.141 186.903 488.593 176.01 461.686 C 181.771 423.65 389.801 82.382 455.936 67.02"/>
+  <path style="fill: rgba(216, 216, 216, 0); stroke: rgb(66, 148, 247); stroke-linecap: round; stroke-width: 44px;" d="M 33.635 301.798 C 72.097 304.141 186.903 488.593 176.01 461.686 C 181.771 423.65 389.801 82.382 455.936 67.02"/>
+</svg>

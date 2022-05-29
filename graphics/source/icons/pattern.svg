@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <g transform="matrix(1, 0, 0, 1, 1.161839, 0.521688)">
+      <g>
+        <path style="fill: rgba(216, 216, 216, 0); stroke-linecap: round; stroke: rgb(216, 188, 0); stroke-width: 50px;" d="M -0.068 82.794 L 158.581 -21.85 L 287.296 70.69 L 416.293 -39.006 C 443.808 -21.786 471.733 -4.165 500.069 13.857"/>
+        <path style="fill: rgba(216, 216, 216, 0); stroke-linecap: round; stroke: rgb(216, 188, 0); stroke-width: 50px;" d="M -0.068 172.794 L 158.581 68.15 L 287.296 160.69 L 416.293 50.994 C 443.808 68.214 471.733 85.835 500.069 103.857"/>
+        <path style="fill: rgba(216, 216, 216, 0); stroke-linecap: round; stroke: rgb(216, 188, 0); stroke-width: 50px;" d="M -0.068 262.794 L 158.581 158.15 L 287.296 250.69 L 416.293 140.994 C 443.808 158.214 471.733 175.835 500.069 193.857"/>
+        <path style="fill: rgba(216, 216, 216, 0); stroke-linecap: round; stroke: rgb(216, 188, 0); stroke-width: 50px;" d="M -0.068 352.794 L 158.581 248.15 L 287.296 340.69 L 416.293 230.994 C 443.808 248.214 471.733 265.835 500.069 283.857"/>
+        <path style="fill: rgba(216, 216, 216, 0); stroke-linecap: round; stroke: rgb(216, 188, 0); stroke-width: 50px;" d="M -0.068 442.794 L 158.581 338.15 L 287.296 430.69 L 416.293 320.994 C 443.808 338.214 471.733 355.835 500.069 373.857"/>
+        <path style="fill: rgba(216, 216, 216, 0); stroke-linecap: round; stroke: rgb(216, 188, 0); stroke-width: 50px;" d="M -0.068 532.794 L 158.581 428.15 L 287.296 520.69 L 416.293 410.994 C 443.808 428.214 471.733 445.835 500.069 463.857"/>
+      </g>
+    </g>
+    <g>
+      <g>
+        <path style="fill: rgba(216, 216, 216, 0); stroke: rgb(66, 148, 247); stroke-width: 27px; stroke-linecap: round;" d="M -0.068 82.794 L 158.581 -21.85 L 287.296 70.69 L 416.293 -39.006 C 443.808 -21.786 471.733 -4.165 500.069 13.857"/>
+        <path style="fill: rgba(216, 216, 216, 0); stroke: rgb(66, 148, 247); stroke-width: 27px; stroke-linecap: round;" d="M -0.068 172.794 L 158.581 68.15 L 287.296 160.69 L 416.293 50.994 C 443.808 68.214 471.733 85.835 500.069 103.857"/>
+        <path style="fill: rgba(216, 216, 216, 0); stroke: rgb(66, 148, 247); stroke-width: 27px; stroke-linecap: round;" d="M -0.068 262.794 L 158.581 158.15 L 287.296 250.69 L 416.293 140.994 C 443.808 158.214 471.733 175.835 500.069 193.857"/>
+        <path style="fill: rgba(216, 216, 216, 0); stroke: rgb(66, 148, 247); stroke-width: 27px; stroke-linecap: round;" d="M -0.068 352.794 L 158.581 248.15 L 287.296 340.69 L 416.293 230.994 C 443.808 248.214 471.733 265.835 500.069 283.857"/>
+        <path style="fill: rgba(216, 216, 216, 0); stroke: rgb(66, 148, 247); stroke-width: 27px; stroke-linecap: round;" d="M -0.068 442.794 L 158.581 338.15 L 287.296 430.69 L 416.293 320.994 C 443.808 338.214 471.733 355.835 500.069 373.857"/>
+        <path style="fill: rgba(216, 216, 216, 0); stroke: rgb(66, 148, 247); stroke-width: 27px; stroke-linecap: round;" d="M -0.068 532.794 L 158.581 428.15 L 287.296 520.69 L 416.293 410.994 C 443.808 428.214 471.733 445.835 500.069 463.857"/>
+      </g>
+    </g>
+  </g>
+</svg>

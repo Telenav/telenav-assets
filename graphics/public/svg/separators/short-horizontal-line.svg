@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 128 16" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="201.085" y1="8.243" x2="201.085" y2="8.34" id="gradient-0" gradientTransform="matrix(-0.001067, 0.316015, -1292.913086, -4.364391, 10783.382812, -22.940672)">
+      <stop offset="0" style="stop-color: rgb(216, 188, 0);"/>
+      <stop offset="1" style="stop-color: rgb(216, 188, 0);"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="201.085" y1="8.243" x2="201.085" y2="8.34" id="gradient-1" gradientTransform="matrix(0.000141, 0.316017, -1296.83252, 0.578513, 10815.585937, -64.150048)">
+      <stop offset="0" style="stop-color: rgb(66, 148, 247); stop-opacity: 0;"/>
+      <stop offset="1" style="stop-color: rgb(66, 148, 247);"/>
+    </linearGradient>
+  </defs>
+  <line style="fill: url(#gradient-0); stroke: url(#gradient-1);" x1="0.077" y1="8.015" x2="126.38" y2="7.985"/>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 1024 128" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="251.401" y1="180.487" x2="251.401" y2="237.229" id="gradient-2" gradientTransform="matrix(-0.144206, -0.724568, 18.174177, -0.514268, -3243.502197, 350.485413)">
+      <stop offset="0" style="stop-color: rgba(0, 149, 255, 0)"/>
+      <stop offset="1" style="stop-color: rgba(0, 89, 153, 0);"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="251.401" y1="180.487" x2="251.401" y2="237.229" id="gradient-3" gradientTransform="matrix(0.165764, 0.722599, -18.349394, 0.747254, 4301.924805, -271.792908)">
+      <stop offset="0" style="stop-color: rgb(255, 147, 0);"/>
+      <stop offset="1" style="stop-color: rgb(0, 150, 255);"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="683.952" y1="17.49" x2="683.952" y2="51.884" id="gradient-0" gradientTransform="matrix(0.001442, -1, 30.012346, 0.043276, -527.171509, 803.866211)">
+      <stop offset="0" style="stop-color: rgb(0, 150, 255);"/>
+      <stop offset="1" style="stop-color: rgb(255, 147, 0);"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="683.952" y1="17.49" x2="683.952" y2="51.884" id="gradient-1" gradientTransform="matrix(-0.019435, -0.999811, 30.235464, -0.587753, -472.53772, 926.010681)">
+      <stop offset="0" style="stop-color: rgb(0, 150, 255);"/>
+      <stop offset="1" style="stop-color: rgb(255, 147, 0);"/>
+    </linearGradient>
+  </defs>
+  <path style="fill: rgba(216, 216, 216, 0); stroke: url(#gradient-0); stroke-width: 32px; stroke-opacity: 0.63;" d="M -7.544 63.449 C 43.791 52.378 229.583 120.432 475.227 71.164 C 686.335 28.823 964.072 69.534 1027.147 70.344"/>
+  <path style="stroke-width: 32px; fill: url(#gradient-2); stroke: url(#gradient-3); stroke-opacity: 0.63;" d="M 1032.047 44.574 C 956.017 46.631 857.79 70.002 781.773 72.119 C 701.335 74.359 528.086 64.618 362.316 54.036 C 181.023 42.463 10.237 85.242 -21.984 86.231"/>
+  <path style="fill: rgba(216, 216, 216, 0); stroke-width: 32px; stroke: url(#gradient-1); stroke-opacity: 0.63;" d="M -7.445 33.526 C 17.531 35.571 67.393 72.648 240.759 71.538 C 285.556 71.252 478.818 42.769 526.848 38.581 C 858.144 9.693 954.923 98.252 1066.374 108.779"/>
+</svg>
