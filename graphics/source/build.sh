@@ -15,7 +15,13 @@
 #     brew install imagemagick
 #
 # Scaled images will be created in the scaled/icons folder. This folder should then be
-# copied to /docs/png/icons for use by web applications via Github Pages.
+# copied to:
+#
+#     /docs/png/icons
+#
+# This folder is mapped to the web by Github Pages, with the URL being of the form:
+#
+#     https://telenav.github.io/telenav-assets/png/icons/bits-16.png
 #
 
 resolutions=(16 24 32 40 48 64 96 128)
