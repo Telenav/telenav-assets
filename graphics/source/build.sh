@@ -15,7 +15,7 @@
 #     brew install imagemagick
 #
 # Scaled images will be created in the scaled/icons folder. This folder should then be
-# copied to graphics/public/png/icons for use by web applications via Github Pages.
+# copied to /docs/png/icons for use by web applications via Github Pages.
 #
 
 resolutions=(16 24 32 40 48 64 96 128)
