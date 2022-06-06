@@ -39,10 +39,12 @@ for file in ./icons/*.svg; do
        resolution2x=$(( resolution * 2 ))
 
        echo "  ${resolution}x${resolution}"
-       convert -size ${resolution}x${resolution} -density 96 $file ./scaled/icons/${filename%.svg}-$resolution.png || exit 1
+       #convert -resize "${resolution}"x"${resolution}"^ -extent "${resolution}"x"${resolution}" -density 96 "$file" ./scaled/icons/"${filename%.svg}"-"$resolution".png || exit 1
+       inkscape --batch-process --export-width "${resolution}" --export-height "${resolution}" --export-background-opacity=0.0 --export-area-drawing --export-dpi=96 "$file" --export-overwrite -o "./scaled/icons/${filename%.svg}-${resolution}.png" 2>/dev/null || exit 1
 
-       echo "  ${resolution}x${resolution}@2x"
-       convert -size ${resolution}x${resolution} -density 192 $file ./scaled/icons/${filename%.svg}-$resolution-2x.png || exit 1
+       echo "  ${resolution}x${resolution}-2x"
+       #convert -resize "${resolution2x}"x"${resolution2x}"^ -extent "${resolution2x}"x"${resolution2x}" -density 192 "$file" ./scaled/icons/"${filename%.svg}"-"$resolution"-2x.png || exit 1
+       inkscape --batch-process --export-width "${resolution2x}" --export-height "${resolution2x}" --export-background-opacity=0.0 --export-area-drawing --export-dpi=192 "$file" --export-overwrite -o "./scaled/icons/${filename%.svg}-${resolution}-2x.png" 2>/dev/null || exit 1
 
     done
 
