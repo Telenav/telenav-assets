@@ -42,7 +42,7 @@ for file in ./icons/*.svg; do
        convert -size ${resolution}x${resolution} -density 96 $file ./scaled/icons/${filename%.svg}-$resolution.png || exit 1
 
        echo "  ${resolution}x${resolution}@2x"
-       convert -size ${resolution}x${resolution} -density 192 $file ./scaled/icons/${filename%.svg}-$resolution@2x.png || exit 1
+       convert -size ${resolution}x${resolution} -density 192 $file ./scaled/icons/${filename%.svg}-$resolution-2x.png || exit 1
 
     done
 
