@@ -1,0 +1,13 @@
+
+@startuml
+
+    !include lexakai.theme
+    
+    title "com.telenav.third.party.prometheus"
+    
+    class Unused
+    {
+    }
+    
+@enduml
+
